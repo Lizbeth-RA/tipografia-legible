@@ -37,3 +37,11 @@ h2 {
     padding: 1rem;
     border-left: 0.25rem solid currentColor;
 }
+
+.resumen {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    font-weight: 600;
+    padding: 1rem;
+    border-left: 0.25rem solid currentColor;
+}
